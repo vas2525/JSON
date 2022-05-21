@@ -1,1 +1,13 @@
-
+{ 
+         "Summary" : "In CTR (Click through ratio) ‘Total’ row calculation is wrong", 
+         "Product" : "Example product", 
+         "Version" : 1.0, 
+         "Platform" : "PC", 
+         "Version" : "Windows 2000", 
+         "Status" : "NEW", 
+         "Severity" : "Major", 
+         "Priority" : "P1", 
+         "Component" : "Publisher stats", 
+         "Steps to reproduce" : 1, 
+         "Expected result" : "wow" 
+}
