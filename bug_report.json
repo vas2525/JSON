@@ -9,5 +9,5 @@
          "Priority" : "P1", 
          "Component" : "Publisher stats", 
          "Steps to reproduce" : 1, 
-         "Expected result" : "wow" 
+         "Expected result" : "In CTR (Click through ratio) ‘Total’ row calculation should work as expected" 
 }
