@@ -7,8 +7,8 @@ leave the repository public --> check the box next to Add a README file
 ```
 2. Clone the JSON repository to the local machine.
 ```bash
-git clone <repository link> # click on the required repository
-# on the right of the Code button and copy HTTPS)
+git clone <repository link> click on the required repository
+on the right of the Code button and copy HTTPS)
 ```
 3. Inside the local JSON, create a “new.json” file.
 ```bash
